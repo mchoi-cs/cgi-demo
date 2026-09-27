@@ -1,0 +1,648 @@
+{
+  "sourceFiles": [
+    "northwind_monthly_kpis.csv",
+    "northwind_complaints.csv",
+    "northwind_meter_reads.csv",
+    "northwind_ai_pilot_2025.csv",
+    "northwind_systems.csv",
+    "northwind_unit_costs.csv"
+  ],
+  "stockFlow": [
+    {
+      "month": "2024-10",
+      "opened": 912,
+      "closed": 476,
+      "net": 436,
+      "openStock": 436,
+      "avgDays": 9.1,
+      "fcr": 0.62,
+      "score": 4.3,
+      "inboundCalls": 42571,
+      "costToServePerAccount": 18.73
+    },
+    {
+      "month": "2024-11",
+      "opened": 830,
+      "closed": 760,
+      "net": 70,
+      "openStock": 506,
+      "avgDays": 16.5,
+      "fcr": 0.611,
+      "score": 4.22,
+      "inboundCalls": 43098,
+      "costToServePerAccount": 17.71
+    },
+    {
+      "month": "2024-12",
+      "opened": 951,
+      "closed": 873,
+      "net": 78,
+      "openStock": 584,
+      "avgDays": 18.4,
+      "fcr": 0.602,
+      "score": 4.15,
+      "inboundCalls": 41856,
+      "costToServePerAccount": 18.88
+    },
+    {
+      "month": "2025-01",
+      "opened": 985,
+      "closed": 927,
+      "net": 58,
+      "openStock": 642,
+      "avgDays": 19.5,
+      "fcr": 0.593,
+      "score": 4.08,
+      "inboundCalls": 42840,
+      "costToServePerAccount": 18.91
+    },
+    {
+      "month": "2025-02",
+      "opened": 851,
+      "closed": 840,
+      "net": 11,
+      "openStock": 653,
+      "avgDays": 20.1,
+      "fcr": 0.584,
+      "score": 4.0,
+      "inboundCalls": 41820,
+      "costToServePerAccount": 19.92
+    },
+    {
+      "month": "2025-03",
+      "opened": 901,
+      "closed": 901,
+      "net": 0,
+      "openStock": 653,
+      "avgDays": 21.4,
+      "fcr": 0.575,
+      "score": 3.92,
+      "inboundCalls": 42227,
+      "costToServePerAccount": 19.72
+    },
+    {
+      "month": "2025-04",
+      "opened": 1023,
+      "closed": 952,
+      "net": 71,
+      "openStock": 724,
+      "avgDays": 22.0,
+      "fcr": 0.566,
+      "score": 3.85,
+      "inboundCalls": 44644,
+      "costToServePerAccount": 18.79
+    },
+    {
+      "month": "2025-05",
+      "opened": 1004,
+      "closed": 942,
+      "net": 62,
+      "openStock": 786,
+      "avgDays": 23.2,
+      "fcr": 0.557,
+      "score": 3.77,
+      "inboundCalls": 43396,
+      "costToServePerAccount": 20.0
+    },
+    {
+      "month": "2025-06",
+      "opened": 982,
+      "closed": 965,
+      "net": 17,
+      "openStock": 803,
+      "avgDays": 23.1,
+      "fcr": 0.548,
+      "score": 3.7,
+      "inboundCalls": 45387,
+      "costToServePerAccount": 20.81
+    },
+    {
+      "month": "2025-07",
+      "opened": 1222,
+      "closed": 1062,
+      "net": 160,
+      "openStock": 963,
+      "avgDays": 24.9,
+      "fcr": 0.539,
+      "score": 3.62,
+      "inboundCalls": 50662,
+      "costToServePerAccount": 19.5
+    },
+    {
+      "month": "2025-08",
+      "opened": 1026,
+      "closed": 1089,
+      "net": -63,
+      "openStock": 900,
+      "avgDays": 26.6,
+      "fcr": 0.53,
+      "score": 3.55,
+      "inboundCalls": 47010,
+      "costToServePerAccount": 19.57
+    },
+    {
+      "month": "2025-09",
+      "opened": 1020,
+      "closed": 1000,
+      "net": 20,
+      "openStock": 920,
+      "avgDays": 28.6,
+      "fcr": 0.521,
+      "score": 3.47,
+      "inboundCalls": 47136,
+      "costToServePerAccount": 20.49
+    },
+    {
+      "month": "2025-10",
+      "opened": 1189,
+      "closed": 1029,
+      "net": 160,
+      "openStock": 1080,
+      "avgDays": 27.6,
+      "fcr": 0.512,
+      "score": 3.4,
+      "inboundCalls": 49033,
+      "costToServePerAccount": 20.52
+    },
+    {
+      "month": "2025-11",
+      "opened": 940,
+      "closed": 1067,
+      "net": -127,
+      "openStock": 953,
+      "avgDays": 29.8,
+      "fcr": 0.503,
+      "score": 3.32,
+      "inboundCalls": 48295,
+      "costToServePerAccount": 21.71
+    },
+    {
+      "month": "2025-12",
+      "opened": 1120,
+      "closed": 1019,
+      "net": 101,
+      "openStock": 1054,
+      "avgDays": 29.6,
+      "fcr": 0.494,
+      "score": 3.25,
+      "inboundCalls": 48825,
+      "costToServePerAccount": 20.67
+    },
+    {
+      "month": "2026-01",
+      "opened": 1177,
+      "closed": 1025,
+      "net": 152,
+      "openStock": 1206,
+      "avgDays": 31.0,
+      "fcr": 0.485,
+      "score": 3.17,
+      "inboundCalls": 50977,
+      "costToServePerAccount": 21.44
+    },
+    {
+      "month": "2026-02",
+      "opened": 1002,
+      "closed": 1000,
+      "net": 2,
+      "openStock": 1208,
+      "avgDays": 33.6,
+      "fcr": 0.476,
+      "score": 3.1,
+      "inboundCalls": 48137,
+      "costToServePerAccount": 21.18
+    },
+    {
+      "month": "2026-03",
+      "opened": 1171,
+      "closed": 1117,
+      "net": 54,
+      "openStock": 1262,
+      "avgDays": 32.8,
+      "fcr": 0.467,
+      "score": 3.02,
+      "inboundCalls": 51169,
+      "costToServePerAccount": 22.52
+    },
+    {
+      "month": "2026-04",
+      "opened": 1190,
+      "closed": 1109,
+      "net": 81,
+      "openStock": 1343,
+      "avgDays": 33.3,
+      "fcr": 0.458,
+      "score": 2.95,
+      "inboundCalls": 50476,
+      "costToServePerAccount": 22.89
+    },
+    {
+      "month": "2026-05",
+      "opened": 1049,
+      "closed": 1146,
+      "net": -97,
+      "openStock": 1246,
+      "avgDays": 34.6,
+      "fcr": 0.449,
+      "score": 2.88,
+      "inboundCalls": 52245,
+      "costToServePerAccount": 21.54
+    },
+    {
+      "month": "2026-06",
+      "opened": 1164,
+      "closed": 1063,
+      "net": 101,
+      "openStock": 1347,
+      "avgDays": 35.9,
+      "fcr": 0.44,
+      "score": 2.8,
+      "inboundCalls": 53421,
+      "costToServePerAccount": 22.4
+    },
+    {
+      "month": "2026-07",
+      "opened": 1271,
+      "closed": 1163,
+      "net": 108,
+      "openStock": 1455,
+      "avgDays": 35.7,
+      "fcr": 0.431,
+      "score": 2.72,
+      "inboundCalls": 53113,
+      "costToServePerAccount": 22.99
+    },
+    {
+      "month": "2026-08",
+      "opened": 1185,
+      "closed": 1130,
+      "net": 55,
+      "openStock": 1510,
+      "avgDays": 37.4,
+      "fcr": 0.422,
+      "score": 2.65,
+      "inboundCalls": 55014,
+      "costToServePerAccount": 22.9
+    },
+    {
+      "month": "2026-09",
+      "opened": 1251,
+      "closed": 1162,
+      "net": 89,
+      "openStock": 1599,
+      "avgDays": 38.2,
+      "fcr": 0.413,
+      "score": 2.58,
+      "inboundCalls": 57060,
+      "costToServePerAccount": 23.92
+    }
+  ],
+  "totals": {
+    "opened": 25416,
+    "closed": 23817,
+    "openBook": 1599,
+    "startStock": 0
+  },
+  "latest": {
+    "month": "2026-09",
+    "openStock": 1599,
+    "avgDays": 38.2,
+    "fcr": 0.413,
+    "score": 2.58,
+    "opened": 1251,
+    "closed": 1162,
+    "inboundCalls": 57060,
+    "costToServePerAccount": 23.92
+  },
+  "recentNet": {
+    "last6": [
+      81,
+      -97,
+      101,
+      108,
+      55,
+      89
+    ],
+    "average": 56.1667
+  },
+  "doNothing": {
+    "avgOpenedLast6": 1185.0,
+    "avgClosedLast6": 1128.8333,
+    "netLast6": 56.1667,
+    "fcrMonthlySlope": -0.009,
+    "daysMonthlySlope": 1.265217,
+    "scoreMonthlySlope": -0.074783
+  },
+  "scoreFit": {
+    "intercept": -0.864174,
+    "slope": 8.326087,
+    "r2": 0.99996,
+    "fcrForScore4": 0.584209
+  },
+  "littlesLaw": {
+    "impliedDays": 41.8327,
+    "reportedDays": 38.2,
+    "closesLastMonth": 1162,
+    "daysPerMonth": 30.4,
+    "calibration": 0.913161
+  },
+  "transferRate": 0.348993,
+  "transferRateLast12": 0.34977,
+  "openCases": {
+    "total": 1599,
+    "billingRelated": 1095,
+    "infoOnly": 0,
+    "byCategory": {
+      "Billing - estimated read": 348,
+      "Billing - disputed amount": 576,
+      "Service - poor communication": 108,
+      "Water - pressure or quality": 60,
+      "Payment - plan or arrears": 80,
+      "Supply - interruption": 125,
+      "Metering - no read taken": 171,
+      "Other": 43,
+      "Service - missed appointment": 88
+    }
+  },
+  "accountsTotal": 1800000,
+  "regions": [
+    {
+      "region": "Ashford",
+      "estate": "smart",
+      "accounts": 412000,
+      "systems": "SYS-02/SYS-07",
+      "smartPenetrationFirst": 0.3,
+      "smartPenetrationLatest": 0.806,
+      "estimatedReadFirst": 0.211,
+      "estimatedReadLatest": 0.25,
+      "estNoReadComplaintsLast12": 550,
+      "estNoReadPer1000": 1.335
+    },
+    {
+      "region": "Barrowdale",
+      "estate": "legacy",
+      "accounts": 298000,
+      "systems": "SYS-01/SYS-06",
+      "smartPenetrationFirst": 0.0,
+      "smartPenetrationLatest": 0.0,
+      "estimatedReadFirst": 0.648,
+      "estimatedReadLatest": 0.62,
+      "estNoReadComplaintsLast12": 1002,
+      "estNoReadPer1000": 3.3624
+    },
+    {
+      "region": "Calderfield",
+      "estate": "smart",
+      "accounts": 355000,
+      "systems": "SYS-02/SYS-07",
+      "smartPenetrationFirst": 0.3,
+      "smartPenetrationLatest": 0.806,
+      "estimatedReadFirst": 0.179,
+      "estimatedReadLatest": 0.214,
+      "estNoReadComplaintsLast12": 591,
+      "estNoReadPer1000": 1.6648
+    },
+    {
+      "region": "Dunmoor",
+      "estate": "legacy",
+      "accounts": 221000,
+      "systems": "SYS-01/SYS-06",
+      "smartPenetrationFirst": 0.0,
+      "smartPenetrationLatest": 0.0,
+      "estimatedReadFirst": 0.558,
+      "estimatedReadLatest": 0.615,
+      "estNoReadComplaintsLast12": 982,
+      "estNoReadPer1000": 4.4434
+    },
+    {
+      "region": "Eastmarch",
+      "estate": "smart",
+      "accounts": 304000,
+      "systems": "SYS-02/SYS-07",
+      "smartPenetrationFirst": 0.3,
+      "smartPenetrationLatest": 0.806,
+      "estimatedReadFirst": 0.209,
+      "estimatedReadLatest": 0.18,
+      "estNoReadComplaintsLast12": 564,
+      "estNoReadPer1000": 1.8553
+    },
+    {
+      "region": "Fenwick",
+      "estate": "smart",
+      "accounts": 210000,
+      "systems": "SYS-02/SYS-07",
+      "smartPenetrationFirst": 0.3,
+      "smartPenetrationLatest": 0.806,
+      "estimatedReadFirst": 0.255,
+      "estimatedReadLatest": 0.262,
+      "estNoReadComplaintsLast12": 577,
+      "estNoReadPer1000": 2.7476
+    }
+  ],
+  "legacy": {
+    "regions": [
+      "Barrowdale",
+      "Dunmoor"
+    ],
+    "accounts": 519000,
+    "smartPenetration": 0.0,
+    "estimatedReadLatestAvg": 0.6175,
+    "estNoReadPer1000": {
+      "Barrowdale": 3.3624,
+      "Dunmoor": 4.4434
+    },
+    "excessVsAshfordAnnual": 1291.12
+  },
+  "smartEstate": {
+    "regions": [
+      "Ashford",
+      "Calderfield",
+      "Eastmarch",
+      "Fenwick"
+    ],
+    "smartPenetrationFirst": 0.3,
+    "smartPenetrationLatest": 0.806
+  },
+  "ashford": {
+    "estNoReadPer1000": 1.335,
+    "estimatedReadFirst": 0.211,
+    "estimatedReadLatest": 0.25
+  },
+  "pilot": {
+    "months": [
+      {
+        "month": "2025-01",
+        "sessions": 14775,
+        "containment": 0.16,
+        "escalation": 0.77,
+        "abandoned": 0.07,
+        "repeat7d": 0.31,
+        "csat": 2.6,
+        "complaintAfterSession": 0.11,
+        "impliedComplaints": 1625.2,
+        "complaintsOpenedThatMonth": 985
+      },
+      {
+        "month": "2025-02",
+        "sessions": 13685,
+        "containment": 0.153,
+        "escalation": 0.777,
+        "abandoned": 0.07,
+        "repeat7d": 0.327,
+        "csat": 2.53,
+        "complaintAfterSession": 0.114,
+        "impliedComplaints": 1560.1,
+        "complaintsOpenedThatMonth": 851
+      },
+      {
+        "month": "2025-03",
+        "sessions": 15773,
+        "containment": 0.146,
+        "escalation": 0.784,
+        "abandoned": 0.07,
+        "repeat7d": 0.344,
+        "csat": 2.46,
+        "complaintAfterSession": 0.118,
+        "impliedComplaints": 1861.2,
+        "complaintsOpenedThatMonth": 901
+      },
+      {
+        "month": "2025-04",
+        "sessions": 18069,
+        "containment": 0.139,
+        "escalation": 0.791,
+        "abandoned": 0.07,
+        "repeat7d": 0.361,
+        "csat": 2.39,
+        "complaintAfterSession": 0.122,
+        "impliedComplaints": 2204.4,
+        "complaintsOpenedThatMonth": 1023
+      },
+      {
+        "month": "2025-05",
+        "sessions": 18791,
+        "containment": 0.132,
+        "escalation": 0.798,
+        "abandoned": 0.07,
+        "repeat7d": 0.378,
+        "csat": 2.32,
+        "complaintAfterSession": 0.126,
+        "impliedComplaints": 2367.7,
+        "complaintsOpenedThatMonth": 1004
+      },
+      {
+        "month": "2025-06",
+        "sessions": 18766,
+        "containment": 0.125,
+        "escalation": 0.805,
+        "abandoned": 0.07,
+        "repeat7d": 0.395,
+        "csat": 2.25,
+        "complaintAfterSession": 0.13,
+        "impliedComplaints": 2439.6,
+        "complaintsOpenedThatMonth": 982
+      },
+      {
+        "month": "2025-07",
+        "sessions": 20133,
+        "containment": 0.118,
+        "escalation": 0.812,
+        "abandoned": 0.07,
+        "repeat7d": 0.412,
+        "csat": 2.18,
+        "complaintAfterSession": 0.134,
+        "impliedComplaints": 2697.8,
+        "complaintsOpenedThatMonth": 1222
+      },
+      {
+        "month": "2025-08",
+        "sessions": 19890,
+        "containment": 0.111,
+        "escalation": 0.819,
+        "abandoned": 0.07,
+        "repeat7d": 0.429,
+        "csat": 2.11,
+        "complaintAfterSession": 0.138,
+        "impliedComplaints": 2744.8,
+        "complaintsOpenedThatMonth": 1026
+      },
+      {
+        "month": "2025-09",
+        "sessions": 20780,
+        "containment": 0.104,
+        "escalation": 0.826,
+        "abandoned": 0.07,
+        "repeat7d": 0.446,
+        "csat": 2.04,
+        "complaintAfterSession": 0.142,
+        "impliedComplaints": 2950.8,
+        "complaintsOpenedThatMonth": 1020
+      }
+    ],
+    "impliedComplaintsMonthlyAvg": 2272.4,
+    "actualOpenedDuringPilotAvg": 1001.6,
+    "containmentMonthlySlope": -0.007,
+    "caveat": "Do not add the pilot's complaint-after-session volume on top of the complaint file. Implied volume exceeds complaints actually opened."
+  },
+  "systems": {
+    "SYS-03": {
+      "id": "SYS-03",
+      "name": "Northwind Connect",
+      "purpose": "Customer web and app self-service",
+      "yearInstalled": 2019,
+      "annualRunCost": 1450000.0,
+      "notes": "Only 34% of customers registered. Cannot display a bill breakdown."
+    },
+    "SYS-05": {
+      "id": "SYS-05",
+      "name": "CallCentre One",
+      "purpose": "Contact centre telephony and CRM",
+      "yearInstalled": 2015,
+      "annualRunCost": 2200000.0,
+      "notes": "Agents run four systems side by side to answer one call."
+    },
+    "SYS-06": {
+      "id": "SYS-06",
+      "name": "MeterHub",
+      "purpose": "Meter read collection and validation",
+      "yearInstalled": 2009,
+      "annualRunCost": 1700000.0,
+      "notes": "Estimation algorithm unchanged since 2012. No feedback loop from corrected bills."
+    },
+    "SYS-15": {
+      "id": "SYS-15",
+      "name": "AskNorthwind (pilot)",
+      "purpose": "AI virtual assistant, 2025 pilot",
+      "yearInstalled": 2025,
+      "annualRunCost": 640000.0,
+      "notes": "Nine-month pilot, Jan-Sep 2025. Paused. Results in northwind_ai_pilot_2025.csv."
+    }
+  },
+  "unitCosts": {
+    "complaint": 68.0,
+    "complaintTransferred": 121.0,
+    "billCorrection": 34.0,
+    "meterVisit": 92.0,
+    "call": 7.4,
+    "penaltyPerQuarter": 2400000.0,
+    "askNorthwindAnnual": 640000.0,
+    "smartMeterInstall": 148.0,
+    "costToServeFirst": 18.73,
+    "costToServeLatest": 23.92,
+    "costToServeRisePerAccount": 5.19,
+    "costToServeRiseAnnual": 9342000.0
+  },
+  "assumptions": {
+    "label": "Team assumptions, not client data",
+    "apiBuildPeople": 6,
+    "apiBuildMonths": 6,
+    "apiBuildRatePerPersonMonth": 25000,
+    "apiBuildCost": 900000,
+    "apiRunAnnual": 180000,
+    "smartMeterCount": 519000,
+    "smartMeterCapex": 76812000.0,
+    "smartMeterMonths": 24,
+    "transferTarget": 0.05,
+    "fcrTarget": 0.584209
+  }
+}
